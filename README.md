@@ -1,2 +1,1 @@
-# Kaggle_Instruction
-Kaggle as the platform for running Jupyter Notebooks
+# Kaggle as the platform for running Jupyter Notebooks
