@@ -1,7 +1,7 @@
 # Kaggle as the platform for running Jupyter Notebooks
 
 Kaggle is a cloud platform originally offering free services for machine learning. However it also allow user to create kernels that run Jupyter Notebooks.
-We will look into how Kaggle can be used as the alternative platform (as opposed to Microsft's Azure or NeCTAR Research Cloud platform) for running Jupyter Notebooks. 
+We will look into how Kaggle can be used as the alternative platform (as opposed to Microsft's Azure or NeCTAR's Cloud platform) for running Jupyter Notebooks. 
 
 - [Register an account in Kaggle](#register-an-account-in-kaggle)
 - [Create a notebook in Kaggle and upload input data files](#create-a-notebook-in-kaggle-and-upload-input-data-files)
